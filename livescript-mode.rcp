@@ -1,0 +1,5 @@
+(:name livescript-mode
+       :description "Emacs Major Mode for LiveScript"
+       :website "https://github.com/bdowning/livescript-mode"
+       :type github
+       :pkgname "bdowning/livescript-mode")
